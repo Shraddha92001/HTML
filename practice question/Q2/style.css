@@ -1,0 +1,13 @@
+.Q2{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+}
