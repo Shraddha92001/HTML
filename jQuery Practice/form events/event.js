@@ -11,8 +11,8 @@ $(document).ready(function(){
         $(this).css("background-color", 'blue');
     })
 
-    $('#sname, #sclass, #scountry').blur(function(){
-        $(this).css("background-color", '');
+    $('#scountry').select(function(){
+        $(this).css("background-color", 'red');
     })
 
     $('#sname, #sclass, #scountry').blur(function(){
